@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Dog
+comment1.params=score
+comment1.target=Dog(Score)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=x\ bottomY
+comment3.target=boolean\ isBelow(int,\ int)
+comment4.params=
+comment4.target=void\ stomped()
+numComments=5

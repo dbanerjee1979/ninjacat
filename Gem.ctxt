@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Gem
+comment1.params=score\ velocity
+comment1.target=Gem(Score,\ int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ snagged()
+numComments=4
